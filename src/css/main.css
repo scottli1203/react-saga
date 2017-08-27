@@ -1,0 +1,18 @@
+
+
+.container-main {
+    margin :0 auto;
+    width :70%
+}
+
+.container-main div{
+    margin-top: 20px;
+}
+
+.container-main select{
+    display: inline-block;
+    width: 10%
+}
+.container-main p{
+    margin-top: 20px;
+}
