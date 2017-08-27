@@ -18,3 +18,5 @@ render(
   </Provider>,
   root
 )
+
+//https://github.com/zhoulijie/react-redux-support-ie8/tree/master/src
