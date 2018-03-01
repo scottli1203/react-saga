@@ -21,4 +21,5 @@ render(
 
 console.log('first commit');
 console.log('first commit2');
+console.log('first commit3');
 //https://github.com/zhoulijie/react-redux-support-ie8/tree/master/src
