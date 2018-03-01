@@ -19,4 +19,5 @@ render(
   root
 )
 
+console.log('first commit');
 //https://github.com/zhoulijie/react-redux-support-ie8/tree/master/src
